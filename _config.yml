@@ -3,7 +3,7 @@ title_left    : "Arvind"
 title_right   : "Krishnakumar"
 description   : Portfolio
 keywords      : 
-url           : https://akrishna77.github.io/ # site url
+url           : https://akrishna77.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
@@ -44,7 +44,5 @@ plugins:
 navbar:
   - slug : about
     title: About Me
-  - slug : blog
-    title: Blog
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script", "vendor"]

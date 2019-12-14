@@ -42,8 +42,51 @@ hr {
   padding: $base-spacing;
   margin-left: auto;
   margin-right: auto;
-  max-width: 1200px;
+  max-width: 1300px;
   font-weight: normal;
+}
+
+.container-body {
+  padding: $base-spacing;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1300px;
+  font-weight: normal;
+}
+
+.container-footer {
+  padding: $base-spacing;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1300px;
+  font-weight: normal;
+  position:relative;
+}
+
+.container-left {
+  float:left;
+  padding: $base-spacing;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+  font-weight: normal;
+
+  span {
+    font-weight: 700;
+  }
+}
+
+.container-right {
+  float:right;
+  padding: $base-spacing;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+  font-weight: normal;
+
+  span {
+    font-weight: 700;
+  }
 }
 
 .pull-left {
@@ -223,6 +266,7 @@ hr {
   @extend .clearfix;
 
   padding: $base-spacing 0;
+  margin-top: 38%;
 
   a {
     @extend .link;
