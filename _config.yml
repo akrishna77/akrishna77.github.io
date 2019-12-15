@@ -29,11 +29,11 @@ sass:
 # Author settings
 author:
   name     : "Arvind Krishnakumar"
-  email     : "mailto:akrishna[at]gatech[dot]edu"
-  github     : "https://github.com/akrishna77"
-  linkedin     : "https://www.linkedin.com/in/arvind-krishnakumar/"
-  instagram     : "https://www.instagram.com/arvsome/"
-  twitter     : "https://twitter.com/arvsome7"
+  email    : "mailto:akrishna[at]gatech[dot]edu"
+  github   : "https://github.com/akrishna77"
+  linkedin : "https://www.linkedin.com/in/arvind-krishnakumar/"
+  instagram: "https://www.instagram.com/arvsome/"
+  twitter  : "https://twitter.com/arvsome7"
 
 plugins:
   - jekyll-sitemap
@@ -42,7 +42,7 @@ plugins:
 
 # navbar pages
 navbar:
-  - slug : about
-    title: About Me
+  - slug : photos
+    title: Photos
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script", "vendor"]
