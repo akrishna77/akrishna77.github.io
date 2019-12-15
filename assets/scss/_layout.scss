@@ -131,6 +131,10 @@ hr {
   .container {
     padding-bottom: 0;
   }
+
+  p {
+    font-size: rem(16);
+  }
 }
 
 .logo {
@@ -266,7 +270,7 @@ hr {
   @extend .clearfix;
 
   padding: $base-spacing 0;
-  margin-top: 38%;
+  margin-top: 35%;
 
   a {
     @extend .link;
