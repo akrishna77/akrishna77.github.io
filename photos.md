@@ -11,7 +11,6 @@ permalink: /photos/
 
 body {
   margin: 0;
-  font-family: Arial;
 }
 
 .header {
