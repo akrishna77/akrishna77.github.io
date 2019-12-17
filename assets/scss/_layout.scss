@@ -47,6 +47,7 @@ hr {
 }
 
 .container-body {
+  display: flex;
   padding: $base-spacing;
   margin-left: auto;
   margin-right: auto;
@@ -87,6 +88,15 @@ hr {
   span {
     font-weight: 700;
   }
+
+  h {
+    font-weight: 700;
+    font-size: rem(18);
+  }
+
+  p {
+    font-size: rem(15);
+  }
 }
 
 .pull-left {
@@ -113,11 +123,15 @@ hr {
 
 .site-header {
   border-bottom: 1px solid lighten($light-gray-color, 5%);
-  margin-bottom: $small-spacing;
+  // margin-bottom: $small-spacing;
   min-height: 80px;
+  background-color:black;
 }
 
 .intro {
+  display: flex;
+  flex-direction: column;
+
   .author-name {
     display: inline-block;
     padding: 0 .2em;
@@ -129,7 +143,7 @@ hr {
   }
 
   .container {
-    padding-bottom: 0;
+    padding-bottom: 0.2em;
   }
 
   p {
@@ -145,9 +159,11 @@ hr {
   font-size: 20px;
   line-height: 28px;
   font-weight: 300;
+  color: white;
 
   span {
     font-weight: 700;
+    color: white;
   }
 }
 
@@ -269,8 +285,8 @@ hr {
 .site-footer {
   @extend .clearfix;
 
-  padding: $base-spacing 0;
-  margin-top: 35%;
+  // padding: $base-spacing 0;
+  // margin-top: 35%;
 
   a {
     @extend .link;
