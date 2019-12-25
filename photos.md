@@ -147,9 +147,7 @@ Here are a few of my favorite photos from the past. If you'd like to see more of
     <img src="../assets/images/IMG_0004.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0005.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0006.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0030.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0033.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0035.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0057.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0058.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0059.jpg" class="myImages" id="myImg" style="width:100%">
@@ -161,7 +159,6 @@ Here are a few of my favorite photos from the past. If you'd like to see more of
     <img src="../assets/images/IMG_0088.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0089.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0091.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0113.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0114.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0116.jpg" class="myImages" id="myImg" style="width:100%">
   </div>
@@ -169,13 +166,11 @@ Here are a few of my favorite photos from the past. If you'd like to see more of
     <img src="../assets/images/IMG_0009.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0011.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0012.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0013.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0037.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0038.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0042.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0064.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0065.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0067.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0069.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0070.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0142.jpg" class="myImages" id="myImg" style="width:100%">
@@ -186,11 +181,9 @@ Here are a few of my favorite photos from the past. If you'd like to see more of
     <img src="../assets/images/IMG_0121.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0122.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0147.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0124.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0125.jpg" class="myImages" id="myImg" style="width:100%">
   </div>
   <div class="column">
-    <img src="../assets/images/IMG_0018.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0021.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0044.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0045.jpg" class="myImages" id="myImg" style="width:100%">
@@ -198,46 +191,40 @@ Here are a few of my favorite photos from the past. If you'd like to see more of
     <img src="../assets/images/IMG_0048.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0071.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0141.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0074.jpg" class="myImages" id="myImg" style="width:100%">
+    <img src="../assets/images/IMG_0055.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0076.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0077.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0099.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0143.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0145.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0105.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0127.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0149.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0129.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0131.jpg" class="myImages" id="myImg" style="width:100%">
+    <img src="../assets/images/IMG_0111.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0132.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0133.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0148.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0119.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0118.jpg" class="myImages" id="myImg" style="width:100%">
+    <img src="../assets/images/IMG_0139.jpg" class="myImages" id="myImg" style="width:100%">
   </div>
   <div class="column">
-    <img src="../assets/images/IMG_0023.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0026.jpg" class="myImages" id="myImg" style="width:100%">
+    <img src="../assets/images/IMG_0023.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0050.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0051.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0053.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0054.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0055.jpg" class="myImages" id="myImg" style="width:100%">
+    <img src="../assets/images/IMG_0074.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0056.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0078.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0079.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0080.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0082.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0083.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0084.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0107.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0109.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0111.jpg" class="myImages" id="myImg" style="width:100%">
+    <img src="../assets/images/IMG_0131.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0112.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0134.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0135.jpg" class="myImages" id="myImg" style="width:100%">
     <img src="../assets/images/IMG_0136.jpg" class="myImages" id="myImg" style="width:100%">
-    <img src="../assets/images/IMG_0139.jpg" class="myImages" id="myImg" style="width:100%">
   </div>
 </div>
 

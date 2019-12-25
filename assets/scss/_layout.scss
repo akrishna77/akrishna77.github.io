@@ -111,6 +111,7 @@ hr {
   color: $blue-color;
   padding-bottom: .05em;
   border-bottom: 2px solid transparent;
+  text-decoration: none;
 
   @include transition(border 300ms linear);
 
@@ -167,11 +168,11 @@ hr {
   }
 }
 
-.nav {
+.nav-custom {
   min-height: 64px;
 }
 
-.navbar {
+.navbar-custom {
   float: right;
   margin: 0;
   position: relative;
