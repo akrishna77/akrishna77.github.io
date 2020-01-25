@@ -16,6 +16,9 @@ permalink: /projects/
 - #### [Visual Essence](https://akrishna77.github.io/CS8903-Essence/)
 <span style="font-size:0.9em;"> Working on vision research in the creative AI space under [Dr. Devi Parikh](https://www.cc.gatech.edu/~parikh), focusing on obtaining a visual representation that adequately conveys the essence of a person's description of themselves. </span>
 
+- #### [Bias Discovery](https://akrishna77.github.io/#/)
+<span style="font-size:0.9em;"> Working on vision research in the algorithmic fairness space under [Dr. Judy Hoffman](https://www.cc.gatech.edu/~judy), focusing on detecting potentially unfair model biases via unsupervised discovery of dataset subpopulations with varying performance. </span>
+
 - #### [Information Retrieval across Indic Scripts](https://tinyurl.com/umyhpsr)
 <span style="font-size:0.9em;"> Developed an Indic script web search engine (Hindi, Tamil, English) that involved querying and retrieving results in more than one language. Proposed a new ranking algorithm based on query intent by applying classification and heuristics on multilingual queries. This project was submitted and accepted as my undergraduate thesis under the advise of [Dr. Ranjani Parthasarathi](https://scholar.google.co.in/citations?user=SMhTwtYAAAAJ&hl=en). </span>
 
