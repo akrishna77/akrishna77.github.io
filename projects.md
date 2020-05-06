@@ -4,6 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
+- #### [Multihop Question Answering](https://akrishna77.github.io/multihop-qa/)
+<span style="font-size:0.9em;"> Reproduced experiments for two published papers, DecompRC and Graph-based Recurrent Retriever and verified their validity and conclusions for the task of multihop question answering. Experimented by combining the merits of the two models to develop and evaluate an alternative approach to solving the same task and presented our results on the HotpotQA dataset. </span>
+
 - #### [Grayscale Video Colorization](https://tinyurl.com/rb2q6ex)
 <span style="font-size:0.9em;"> Built a system that automatically colorizes grayscale videos and historical films, in an effort to restore videos to their original colors. </span>
 
