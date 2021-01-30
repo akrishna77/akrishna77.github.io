@@ -22,6 +22,9 @@ permalink: /projects/
 - #### [Bias Discovery](https://akrishna77.github.io/#/)
 <span style="font-size:0.9em;"> Working on vision research in the algorithmic fairness space under [Dr. Judy Hoffman](https://www.cc.gatech.edu/~judy), focusing on detecting potentially unfair model biases via unsupervised discovery of dataset subpopulations with varying performance. </span>
 
+- #### [AlphaZero AI to play Blind Multi-Chess](https://akrishna77.github.io/RBMCweb/)
+<span style="font-size:0.9em;"> Developed an AI agent to play the game of Reconnaissance Blind Multi-Chess (RBMC) by learning to play against Stockfish.
+
 - #### [Information Retrieval across Indic Scripts](https://tinyurl.com/umyhpsr)
 <span style="font-size:0.9em;"> Developed an Indic script web search engine (Hindi, Tamil, English) that involved querying and retrieving results in more than one language. Proposed a new ranking algorithm based on query intent by applying classification and heuristics on multilingual queries. This project was submitted and accepted as my undergraduate thesis under the advise of [Dr. Ranjani Parthasarathi](https://scholar.google.co.in/citations?user=SMhTwtYAAAAJ&hl=en). </span>
 
