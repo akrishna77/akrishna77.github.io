@@ -14,7 +14,7 @@ permalink: /projects/
 <span style="font-size:0.9em;"> Developed an agent to play the game, Settlers of Catan in its entirety, using a Deep Q-Network agent that can utilize gameplay mechanics and outperform both current state-of-the-art agents and humans. </span>
 
 - #### [Visual Relationship Detection](https://akrishna77.github.io/visual-relationships/)
-<span style="font-size:0.9em;"> Proposed a few-shot learning based approach to detect objects of interest in an image, given a specific predicate relationship that has been highlighted through text input. </span>
+<span style="font-size:0.9em;"> Proposed an approach to detect objects of interest in an image, given a specific predicate relationship that has been highlighted through text input. </span>
 
 - #### [Visual Essence](https://akrishna77.github.io/CS8903-Essence/)
 <span style="font-size:0.9em;"> Working on vision research in the creative AI space under [Dr. Devi Parikh](https://www.cc.gatech.edu/~parikh), focusing on obtaining a visual representation that adequately conveys the essence of a person's description of themselves. </span>
