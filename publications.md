@@ -8,7 +8,7 @@ permalink: /publications/
 <span style="font-size:0.9em;"> Arvind Krishnakumar, Viraj Prabhu, Sruthi Sudhakar, Judy Hoffman. <em>British Machine Vision Conference (BMVC), 2021</em> <br/> <br/>
 Deep learning models have been shown to learn spurious correlations from data that sometimes lead to systematic failures for certain subpopulations. Prior work has typically diagnosed this by crowdsourcing annotations for various protected attributes and measuring performance, which is both expensive to acquire and difficult to scale. In this work, we propose UDIS, an unsupervised algorithm for surfacing and analyzing such failure modes. UDIS identifies subpopulations via hierarchical clustering of dataset embeddings and surfaces systematic failure modes by visualizing low performing clusters along with their gradient-weighted class-activation maps. We show the effectiveness of UDIS in identifying failure modes in models trained for image classification on the CelebA and MSCOCO datasets. <br />
 
-[code](https://github.com/akrishna77/bias-discovery) \| [paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0362.html)
+[paper](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0362.html) \| [arxiv](https://arxiv.org/abs/2110.15499) \| [code](https://github.com/akrishna77/bias-discovery)
 
 - #### Mitigating Bias in Visual Transformers via Targeted Alignment
 <span style="font-size:0.9em;"> Sruthi Sudhakar, Viraj Prabhu, Arvind Krishnakumar, Judy Hoffman. <em>British Machine Vision Conference (BMVC), 2021</em> <br/> <br/>
