@@ -19,9 +19,6 @@ permalink: /projects/
 - #### [Visual Essence](https://akrishna77.github.io/CS8903-Essence/)
 <span style="font-size:0.9em;"> Working on vision research in the creative AI space under [Dr. Devi Parikh](https://www.cc.gatech.edu/~parikh), focusing on obtaining a visual representation that adequately conveys the essence of a person's description of themselves. </span>
 
-- #### [Bias Discovery](https://akrishna77.github.io/#/)
-<span style="font-size:0.9em;"> Working on vision research in the algorithmic fairness space under [Dr. Judy Hoffman](https://www.cc.gatech.edu/~judy), focusing on detecting potentially unfair model biases via unsupervised discovery of dataset subpopulations with varying performance. </span>
-
 - #### [AlphaZero AI to play Blind Multi-Chess](https://akrishna77.github.io/RBMCweb/)
 <span style="font-size:0.9em;"> Developed an AI agent to play the game of Reconnaissance Blind Multi-Chess (RBMC) by learning to play against Stockfish.
 
